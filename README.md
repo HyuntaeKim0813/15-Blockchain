@@ -123,5 +123,7 @@ With “SEALER_TWO_ADDRESS” being the second public address for the second nod
 After entering these last two commands, the user should enter the unique passwords, even when not prompted (Player13 for node1 and for node2, Player31).
 
 ![ETH 1](https://user-images.githubusercontent.com/74793861/117895877-53bd9b80-b28d-11eb-9043-bd973fb6cc06.PNG)
+![ETH2](https://user-images.githubusercontent.com/74793861/117895908-66d06b80-b28d-11eb-9c44-7508efcd88eb.PNG)
+![ETH 3](https://user-images.githubusercontent.com/74793861/117895915-69cb5c00-b28d-11eb-8551-0c114598f77a.PNG)
 
 
